@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainAncillary.minimum
+==========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainAncillary.minimum

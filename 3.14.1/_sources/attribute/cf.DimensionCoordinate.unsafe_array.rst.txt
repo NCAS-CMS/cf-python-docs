@@ -1,0 +1,7 @@
+cf.DimensionCoordinate.unsafe_array
+===================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.DimensionCoordinate.unsafe_array

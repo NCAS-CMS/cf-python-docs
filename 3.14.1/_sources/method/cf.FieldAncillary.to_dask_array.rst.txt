@@ -1,0 +1,9 @@
+:orphan:
+
+cf.FieldAncillary.to_dask_array
+===============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.FieldAncillary.to_dask_array

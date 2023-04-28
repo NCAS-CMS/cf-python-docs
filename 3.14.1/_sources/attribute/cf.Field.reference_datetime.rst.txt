@@ -1,0 +1,7 @@
+cf.Field.reference_datetime
+===========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.Field.reference_datetime

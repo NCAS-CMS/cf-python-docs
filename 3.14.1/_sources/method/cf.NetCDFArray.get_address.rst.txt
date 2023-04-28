@@ -1,0 +1,9 @@
+:orphan:
+
+cf.NetCDFArray.get_address
+==========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.NetCDFArray.get_address

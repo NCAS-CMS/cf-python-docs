@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Bounds.cfa_del_file_substitution
+===================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Bounds.cfa_del_file_substitution

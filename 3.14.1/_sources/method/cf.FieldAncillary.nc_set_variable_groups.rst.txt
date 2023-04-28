@@ -1,0 +1,9 @@
+:orphan:
+
+cf.FieldAncillary.nc_set_variable_groups
+========================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.FieldAncillary.nc_set_variable_groups

@@ -1,0 +1,7 @@
+cf.Field.CM
+===========
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.Field.CM

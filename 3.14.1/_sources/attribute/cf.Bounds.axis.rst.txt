@@ -1,0 +1,7 @@
+cf.Bounds.axis
+==============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.Bounds.axis

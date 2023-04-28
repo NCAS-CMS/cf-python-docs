@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Bounds.getprop
+=================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Bounds.getprop

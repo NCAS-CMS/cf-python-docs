@@ -1,0 +1,7 @@
+cf.Bounds.ctype
+===============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.Bounds.ctype

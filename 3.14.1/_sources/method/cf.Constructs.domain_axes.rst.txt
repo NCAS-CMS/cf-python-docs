@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Constructs.domain_axes
+=========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Constructs.domain_axes

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.List.Data
+============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.List.Data

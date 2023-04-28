@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Field.cfa_update_file_substitutions
+======================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Field.cfa_update_file_substitutions

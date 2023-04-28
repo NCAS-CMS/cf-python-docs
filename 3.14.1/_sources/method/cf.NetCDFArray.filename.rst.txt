@@ -1,0 +1,9 @@
+:orphan:
+
+cf.NetCDFArray.filename
+=======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.NetCDFArray.filename

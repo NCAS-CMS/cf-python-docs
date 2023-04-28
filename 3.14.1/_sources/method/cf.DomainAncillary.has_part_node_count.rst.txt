@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainAncillary.has_part_node_count
+======================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainAncillary.has_part_node_count

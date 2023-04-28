@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Field.axes_names
+===================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Field.axes_names

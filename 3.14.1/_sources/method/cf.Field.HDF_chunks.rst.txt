@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Field.HDF_chunks
+===================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Field.HDF_chunks
