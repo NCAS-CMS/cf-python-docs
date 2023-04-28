@@ -1,0 +1,9 @@
+:orphan:
+
+cf.List.apply_masking
+=====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.List.apply_masking

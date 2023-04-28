@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellMeasure.persist
+======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellMeasure.persist

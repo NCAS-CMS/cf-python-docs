@@ -1,0 +1,9 @@
+:orphan:
+
+cf.FieldAncillary.to_memory
+===========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.FieldAncillary.to_memory

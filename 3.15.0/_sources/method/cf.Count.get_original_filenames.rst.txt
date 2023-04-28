@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Count.get_original_filenames
+===============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Count.get_original_filenames

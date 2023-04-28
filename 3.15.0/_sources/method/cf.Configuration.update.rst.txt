@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Configuration.update
+=======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Configuration.update

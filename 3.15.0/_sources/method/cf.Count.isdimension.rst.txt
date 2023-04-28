@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Count.isdimension
+====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Count.isdimension

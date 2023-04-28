@@ -1,0 +1,7 @@
+cf.Data.npartitions
+===================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.Data.npartitions

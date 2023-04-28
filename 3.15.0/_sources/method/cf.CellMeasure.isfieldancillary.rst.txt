@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellMeasure.isfieldancillary
+===============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellMeasure.isfieldancillary

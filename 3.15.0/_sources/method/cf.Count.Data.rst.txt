@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Count.Data
+=============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Count.Data

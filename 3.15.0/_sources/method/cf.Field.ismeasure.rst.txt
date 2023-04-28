@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Field.ismeasure
+==================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Field.ismeasure

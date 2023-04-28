@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Count.file_locations
+=======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Count.file_locations
