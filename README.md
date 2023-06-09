@@ -1,10 +1,15 @@
 # cf-python-docs
 Archive store of built HTML documentation for old versions of cf-python
 
+:warning: Note: this is archived documentation and not intended as the canonical
+source for the latest version (though the archived copy should be identical to
+the canonical one). **To view the latest version of the cf-python
+documentation, always go to https://ncas-cms.github.io/cf-python/**.
+
 ### Background
 
 This repository is designed to house built i.e. HTML-format files defining
-the content of the built documentation for older, i.e. not the latest,
+the content of the built documentation for all
 versions of the [cf-python](https://github.com/NCAS-CMS/cf-python) library.
 
 Note that the contents of this directory, namely the built HTML documntation
