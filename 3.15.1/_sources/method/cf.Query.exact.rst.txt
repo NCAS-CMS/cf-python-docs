@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Query.exact
+==============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Query.exact

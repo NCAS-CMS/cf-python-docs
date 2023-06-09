@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Count.identities
+===================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Count.identities

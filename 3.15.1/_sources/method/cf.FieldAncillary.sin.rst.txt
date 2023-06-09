@@ -1,0 +1,9 @@
+:orphan:
+
+cf.FieldAncillary.sin
+=====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.FieldAncillary.sin

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.NetCDFArray.close
+====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.NetCDFArray.close

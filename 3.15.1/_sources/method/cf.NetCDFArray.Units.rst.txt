@@ -1,0 +1,9 @@
+:orphan:
+
+cf.NetCDFArray.Units
+====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.NetCDFArray.Units

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.List.__rdiv__
+================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.List.__rdiv__

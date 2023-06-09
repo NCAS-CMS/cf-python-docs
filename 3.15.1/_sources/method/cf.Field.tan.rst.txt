@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Field.tan
+============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Field.tan

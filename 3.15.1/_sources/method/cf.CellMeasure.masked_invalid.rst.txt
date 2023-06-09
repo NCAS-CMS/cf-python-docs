@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellMeasure.masked_invalid
+=============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellMeasure.masked_invalid

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Domain.nc_get_variable
+=========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Domain.nc_get_variable

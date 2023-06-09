@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Field.cell_measure
+=====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Field.cell_measure

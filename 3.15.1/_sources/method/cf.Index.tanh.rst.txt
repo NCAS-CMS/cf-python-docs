@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Index.tanh
+=============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Index.tanh

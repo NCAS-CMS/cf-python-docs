@@ -1,0 +1,9 @@
+:orphan:
+
+cf.List.insert_dimension
+========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.List.insert_dimension

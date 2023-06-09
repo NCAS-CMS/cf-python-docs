@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Domain.uncompress
+====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Domain.uncompress

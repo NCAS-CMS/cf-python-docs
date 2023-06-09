@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Bounds.delprop
+=================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Bounds.delprop

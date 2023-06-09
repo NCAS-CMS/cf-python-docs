@@ -1,0 +1,9 @@
+:orphan:
+
+cf.RaggedIndexedContiguousArray.subarrays
+=========================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.RaggedIndexedContiguousArray.subarrays

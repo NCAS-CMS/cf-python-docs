@@ -1,0 +1,9 @@
+:orphan:
+
+cf.List.range
+=============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.List.range

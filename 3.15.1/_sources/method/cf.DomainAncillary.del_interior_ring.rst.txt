@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainAncillary.del_interior_ring
+====================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainAncillary.del_interior_ring

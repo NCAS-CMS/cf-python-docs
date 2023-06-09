@@ -1,0 +1,7 @@
+cf.Domain.construct_type
+========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.Domain.construct_type

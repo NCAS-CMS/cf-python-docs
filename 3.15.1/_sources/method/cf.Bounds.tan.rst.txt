@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Bounds.tan
+=============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Bounds.tan

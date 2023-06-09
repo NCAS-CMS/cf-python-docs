@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Datum.get_parameter
+======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Datum.get_parameter
