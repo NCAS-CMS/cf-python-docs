@@ -1,0 +1,9 @@
+:orphan:
+
+cf.List.__ior__
+===============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.List.__ior__

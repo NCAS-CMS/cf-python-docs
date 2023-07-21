@@ -1,0 +1,9 @@
+:orphan:
+
+cf.FieldAncillary.add_file_location
+===================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.FieldAncillary.add_file_location

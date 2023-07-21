@@ -1,0 +1,7 @@
+cf.Query.Units
+==============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.Query.Units

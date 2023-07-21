@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellMeasure.range
+====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellMeasure.range

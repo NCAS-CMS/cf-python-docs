@@ -1,0 +1,9 @@
+:orphan:
+
+cf.FieldList.remove
+===================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.FieldList.remove

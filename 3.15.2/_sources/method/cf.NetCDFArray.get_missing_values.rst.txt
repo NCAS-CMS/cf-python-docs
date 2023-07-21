@@ -1,0 +1,9 @@
+:orphan:
+
+cf.NetCDFArray.get_missing_values
+=================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.NetCDFArray.get_missing_values

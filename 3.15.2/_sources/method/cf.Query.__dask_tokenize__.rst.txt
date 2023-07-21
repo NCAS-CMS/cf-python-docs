@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Query.__dask_tokenize__
+==========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Query.__dask_tokenize__

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DimensionCoordinate.arccos
+=============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DimensionCoordinate.arccos

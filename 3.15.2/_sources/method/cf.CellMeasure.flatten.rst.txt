@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellMeasure.flatten
+======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellMeasure.flatten

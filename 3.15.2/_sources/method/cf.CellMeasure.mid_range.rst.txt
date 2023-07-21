@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellMeasure.mid_range
+========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellMeasure.mid_range

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Data.get_tie_point_indices
+=============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Data.get_tie_point_indices

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.RegridOperator.tosparse
+==========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.RegridOperator.tosparse

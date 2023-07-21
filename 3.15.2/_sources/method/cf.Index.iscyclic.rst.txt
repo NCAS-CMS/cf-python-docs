@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Index.iscyclic
+=================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Index.iscyclic

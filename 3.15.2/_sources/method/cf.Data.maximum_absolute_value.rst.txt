@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Data.maximum_absolute_value
+==============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Data.maximum_absolute_value

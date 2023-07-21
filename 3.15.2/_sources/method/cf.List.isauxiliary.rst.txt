@@ -1,0 +1,9 @@
+:orphan:
+
+cf.List.isauxiliary
+===================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.List.isauxiliary

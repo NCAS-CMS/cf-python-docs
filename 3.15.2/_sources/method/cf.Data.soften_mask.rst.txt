@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Data.soften_mask
+===================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Data.soften_mask

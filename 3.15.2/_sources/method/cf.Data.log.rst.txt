@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Data.log
+===========
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Data.log

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DimensionCoordinate.maximum
+==============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DimensionCoordinate.maximum

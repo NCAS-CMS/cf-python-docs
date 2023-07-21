@@ -1,0 +1,9 @@
+:orphan:
+
+cf.FieldAncillary.equals
+========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.FieldAncillary.equals
