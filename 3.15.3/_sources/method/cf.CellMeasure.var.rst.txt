@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellMeasure.var
+==================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellMeasure.var

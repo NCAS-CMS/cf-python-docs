@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Query.__deepcopy__
+=====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Query.__deepcopy__

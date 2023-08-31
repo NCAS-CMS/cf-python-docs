@@ -1,0 +1,7 @@
+cf.DimensionCoordinate.hasdata
+==============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.DimensionCoordinate.hasdata

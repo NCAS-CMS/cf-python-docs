@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Data.dtvarray
+================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Data.dtvarray

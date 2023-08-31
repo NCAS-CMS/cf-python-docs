@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DimensionCoordinate.cfa_del_file_substitution
+================================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DimensionCoordinate.cfa_del_file_substitution

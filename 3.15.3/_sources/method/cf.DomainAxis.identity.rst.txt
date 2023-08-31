@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainAxis.identity
+======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainAxis.identity

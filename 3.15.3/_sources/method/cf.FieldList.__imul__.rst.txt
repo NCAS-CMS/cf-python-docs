@@ -1,0 +1,9 @@
+:orphan:
+
+cf.FieldList.__imul__
+=====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.FieldList.__imul__

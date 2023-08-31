@@ -1,0 +1,7 @@
+cf.DimensionCoordinate.isdomainancillary
+========================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.DimensionCoordinate.isdomainancillary

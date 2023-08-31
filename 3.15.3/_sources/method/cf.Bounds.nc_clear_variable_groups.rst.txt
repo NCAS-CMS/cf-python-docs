@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Bounds.nc_clear_variable_groups
+==================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Bounds.nc_clear_variable_groups

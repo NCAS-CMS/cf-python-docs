@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Field.section
+================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Field.section

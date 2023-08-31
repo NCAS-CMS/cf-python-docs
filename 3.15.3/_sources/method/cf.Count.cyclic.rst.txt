@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Count.cyclic
+===============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Count.cyclic

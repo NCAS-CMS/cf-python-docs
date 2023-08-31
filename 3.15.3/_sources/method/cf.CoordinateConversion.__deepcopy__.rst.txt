@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CoordinateConversion.__deepcopy__
+====================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CoordinateConversion.__deepcopy__

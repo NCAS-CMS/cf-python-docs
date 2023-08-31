@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainAncillary.isauxiliary
+==============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainAncillary.isauxiliary

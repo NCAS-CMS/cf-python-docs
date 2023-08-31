@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Domain.measure
+=================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Domain.measure

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.AuxiliaryCoordinate.__ifloordiv__
+====================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.AuxiliaryCoordinate.__ifloordiv__

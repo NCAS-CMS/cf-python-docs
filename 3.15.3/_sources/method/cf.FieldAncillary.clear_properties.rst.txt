@@ -1,0 +1,9 @@
+:orphan:
+
+cf.FieldAncillary.clear_properties
+==================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.FieldAncillary.clear_properties

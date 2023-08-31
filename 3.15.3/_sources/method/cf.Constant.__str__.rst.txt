@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Constant.__str__
+===================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Constant.__str__

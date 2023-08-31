@@ -1,0 +1,9 @@
+:orphan:
+
+cf.List.has_property
+====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.List.has_property

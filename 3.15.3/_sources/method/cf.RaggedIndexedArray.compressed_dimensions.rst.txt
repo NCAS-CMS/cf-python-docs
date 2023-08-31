@@ -1,0 +1,9 @@
+:orphan:
+
+cf.RaggedIndexedArray.compressed_dimensions
+===========================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.RaggedIndexedArray.compressed_dimensions

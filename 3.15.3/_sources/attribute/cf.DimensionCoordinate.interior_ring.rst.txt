@@ -1,0 +1,7 @@
+cf.DimensionCoordinate.interior_ring
+====================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.DimensionCoordinate.interior_ring

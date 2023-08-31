@@ -1,0 +1,9 @@
+:orphan:
+
+cf.FieldAncillary.isperiodic
+============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.FieldAncillary.isperiodic
