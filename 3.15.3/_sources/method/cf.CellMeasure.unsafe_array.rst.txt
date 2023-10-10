@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellMeasure.unsafe_array
+===========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellMeasure.unsafe_array

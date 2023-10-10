@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Index.__ixor__
+=================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Index.__ixor__

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.List.isdomainancillary
+=========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.List.isdomainancillary

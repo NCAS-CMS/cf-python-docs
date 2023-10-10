@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Count.chunk
+==============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Count.chunk

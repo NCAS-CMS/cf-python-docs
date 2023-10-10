@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Configuration.__repr__
+=========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Configuration.__repr__

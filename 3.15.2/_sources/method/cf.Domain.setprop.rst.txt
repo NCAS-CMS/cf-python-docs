@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Domain.setprop
+=================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Domain.setprop

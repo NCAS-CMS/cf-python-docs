@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Field.argmax
+===============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Field.argmax

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DimensionCoordinate.match_by_identity
+========================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DimensionCoordinate.match_by_identity

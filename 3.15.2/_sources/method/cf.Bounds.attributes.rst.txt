@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Bounds.attributes
+====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Bounds.attributes

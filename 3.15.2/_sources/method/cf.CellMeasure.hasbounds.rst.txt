@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellMeasure.hasbounds
+========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellMeasure.hasbounds

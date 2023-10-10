@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DimensionCoordinate.mask_invalid
+===================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DimensionCoordinate.mask_invalid

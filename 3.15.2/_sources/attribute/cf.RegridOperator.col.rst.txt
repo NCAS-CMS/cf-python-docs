@@ -1,0 +1,7 @@
+cf.RegridOperator.col
+=====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.RegridOperator.col

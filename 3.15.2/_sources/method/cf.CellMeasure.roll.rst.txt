@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellMeasure.roll
+===================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellMeasure.roll

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.TimeDuration.__dask_tokenize__
+=================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.TimeDuration.__dask_tokenize__

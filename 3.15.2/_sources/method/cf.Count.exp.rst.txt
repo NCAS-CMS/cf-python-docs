@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Count.exp
+============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Count.exp

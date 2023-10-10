@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellMeasure.standard_deviation
+=================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellMeasure.standard_deviation

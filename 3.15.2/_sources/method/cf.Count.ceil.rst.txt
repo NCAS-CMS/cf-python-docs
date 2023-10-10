@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Count.ceil
+=============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Count.ceil

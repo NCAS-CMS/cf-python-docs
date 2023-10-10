@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Domain.climatological_time_axes
+==================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Domain.climatological_time_axes

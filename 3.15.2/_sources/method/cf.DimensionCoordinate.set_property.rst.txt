@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DimensionCoordinate.set_property
+===================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DimensionCoordinate.set_property

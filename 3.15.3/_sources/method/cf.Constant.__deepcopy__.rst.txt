@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Constant.__deepcopy__
+========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Constant.__deepcopy__

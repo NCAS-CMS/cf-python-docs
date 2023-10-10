@@ -1,0 +1,7 @@
+cf.DimensionCoordinate.ismeasure
+================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.DimensionCoordinate.ismeasure

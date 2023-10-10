@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellMeasure.cfa_clear_file_substitutions
+===========================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellMeasure.cfa_clear_file_substitutions

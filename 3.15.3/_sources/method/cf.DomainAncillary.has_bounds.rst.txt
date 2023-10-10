@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainAncillary.has_bounds
+=============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainAncillary.has_bounds

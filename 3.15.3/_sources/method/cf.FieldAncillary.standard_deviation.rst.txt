@@ -1,0 +1,9 @@
+:orphan:
+
+cf.FieldAncillary.standard_deviation
+====================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.FieldAncillary.standard_deviation

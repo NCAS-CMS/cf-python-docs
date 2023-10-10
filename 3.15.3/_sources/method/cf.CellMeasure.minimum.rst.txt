@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellMeasure.minimum
+======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellMeasure.minimum

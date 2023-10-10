@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CoordinateReference.name
+===========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CoordinateReference.name

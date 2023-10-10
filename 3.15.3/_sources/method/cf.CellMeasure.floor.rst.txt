@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellMeasure.floor
+====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellMeasure.floor

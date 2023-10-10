@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainAxis.__str__
+=====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainAxis.__str__

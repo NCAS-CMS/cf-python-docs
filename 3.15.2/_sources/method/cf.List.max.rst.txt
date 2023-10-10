@@ -1,0 +1,9 @@
+:orphan:
+
+cf.List.max
+===========
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.List.max

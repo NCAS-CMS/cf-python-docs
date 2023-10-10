@@ -1,0 +1,9 @@
+:orphan:
+
+cf.AuxiliaryCoordinate.count_masked
+===================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.AuxiliaryCoordinate.count_masked

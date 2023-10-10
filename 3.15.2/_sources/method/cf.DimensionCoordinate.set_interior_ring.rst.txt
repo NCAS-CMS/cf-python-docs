@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DimensionCoordinate.set_interior_ring
+========================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DimensionCoordinate.set_interior_ring

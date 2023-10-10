@@ -1,0 +1,9 @@
+:orphan:
+
+cf.FieldAncillary.sample_size
+=============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.FieldAncillary.sample_size

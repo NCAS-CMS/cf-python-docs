@@ -1,0 +1,9 @@
+:orphan:
+
+cf.List.equivalent
+==================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.List.equivalent

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainAncillary.files
+========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainAncillary.files

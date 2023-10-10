@@ -1,0 +1,9 @@
+:orphan:
+
+cf.List.standard_deviation
+==========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.List.standard_deviation

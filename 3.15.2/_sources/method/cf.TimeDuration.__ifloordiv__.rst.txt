@@ -1,0 +1,9 @@
+:orphan:
+
+cf.TimeDuration.__ifloordiv__
+=============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.TimeDuration.__ifloordiv__

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Index.mean
+=============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Index.mean

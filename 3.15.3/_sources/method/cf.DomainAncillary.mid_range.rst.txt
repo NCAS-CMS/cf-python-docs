@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainAncillary.mid_range
+============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainAncillary.mid_range

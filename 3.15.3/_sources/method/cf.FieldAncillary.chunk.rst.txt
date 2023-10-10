@@ -1,0 +1,9 @@
+:orphan:
+
+cf.FieldAncillary.chunk
+=======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.FieldAncillary.chunk

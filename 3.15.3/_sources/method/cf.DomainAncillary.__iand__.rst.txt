@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainAncillary.__iand__
+===========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainAncillary.__iand__
