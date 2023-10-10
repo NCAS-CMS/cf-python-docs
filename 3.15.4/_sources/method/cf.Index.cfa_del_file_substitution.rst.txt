@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Index.cfa_del_file_substitution
+==================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Index.cfa_del_file_substitution

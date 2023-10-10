@@ -1,0 +1,7 @@
+cf.Count.apply_masking
+======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.Count.apply_masking

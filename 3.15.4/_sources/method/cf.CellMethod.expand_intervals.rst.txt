@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellMethod.expand_intervals
+==============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellMethod.expand_intervals

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CoordinateConversion.clear_domain_ancillaries
+================================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CoordinateConversion.clear_domain_ancillaries

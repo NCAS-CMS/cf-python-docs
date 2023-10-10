@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DimensionCoordinate.round
+============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DimensionCoordinate.round

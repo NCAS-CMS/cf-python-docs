@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainAncillary.hasdata
+==========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainAncillary.hasdata

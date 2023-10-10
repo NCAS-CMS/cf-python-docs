@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Field.grad_xy
+================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Field.grad_xy

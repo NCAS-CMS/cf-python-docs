@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Index.get_property
+=====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Index.get_property

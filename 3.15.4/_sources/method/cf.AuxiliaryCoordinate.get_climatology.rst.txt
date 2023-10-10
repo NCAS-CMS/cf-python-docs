@@ -1,0 +1,9 @@
+:orphan:
+
+cf.AuxiliaryCoordinate.get_climatology
+======================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.AuxiliaryCoordinate.get_climatology

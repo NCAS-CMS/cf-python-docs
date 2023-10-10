@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellMeasure.__rsub__
+=======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellMeasure.__rsub__

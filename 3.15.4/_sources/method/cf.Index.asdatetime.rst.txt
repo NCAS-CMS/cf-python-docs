@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Index.asdatetime
+===================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Index.asdatetime

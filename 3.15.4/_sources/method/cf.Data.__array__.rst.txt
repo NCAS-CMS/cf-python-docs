@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Data.__array__
+=================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Data.__array__

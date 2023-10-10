@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Data.chunks
+==============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Data.chunks

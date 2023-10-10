@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Data.set_calendar
+====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Data.set_calendar

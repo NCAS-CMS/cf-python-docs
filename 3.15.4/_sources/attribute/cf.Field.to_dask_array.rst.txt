@@ -1,0 +1,7 @@
+cf.Field.to_dask_array
+======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.Field.to_dask_array

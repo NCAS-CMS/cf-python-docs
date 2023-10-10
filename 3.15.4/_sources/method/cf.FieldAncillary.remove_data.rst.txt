@@ -1,0 +1,9 @@
+:orphan:
+
+cf.FieldAncillary.remove_data
+=============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.FieldAncillary.remove_data

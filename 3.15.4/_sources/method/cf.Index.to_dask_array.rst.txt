@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Index.to_dask_array
+======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Index.to_dask_array

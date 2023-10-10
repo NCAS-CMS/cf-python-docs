@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Field.direction
+==================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Field.direction
