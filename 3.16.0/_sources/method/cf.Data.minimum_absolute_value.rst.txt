@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Data.minimum_absolute_value
+==============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Data.minimum_absolute_value

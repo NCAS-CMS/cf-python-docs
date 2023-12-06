@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Data.in_memory
+=================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Data.in_memory

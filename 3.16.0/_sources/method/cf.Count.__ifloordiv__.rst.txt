@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Count.__ifloordiv__
+======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Count.__ifloordiv__

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Index.name
+=============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Index.name

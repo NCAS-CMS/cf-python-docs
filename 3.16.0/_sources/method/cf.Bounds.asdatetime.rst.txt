@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Bounds.asdatetime
+====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Bounds.asdatetime

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DimensionCoordinate.unsafe_array
+===================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DimensionCoordinate.unsafe_array

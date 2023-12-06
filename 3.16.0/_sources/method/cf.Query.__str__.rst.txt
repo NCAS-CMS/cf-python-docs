@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Query.__str__
+================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Query.__str__

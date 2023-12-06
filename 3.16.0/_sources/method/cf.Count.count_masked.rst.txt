@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Count.count_masked
+=====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Count.count_masked

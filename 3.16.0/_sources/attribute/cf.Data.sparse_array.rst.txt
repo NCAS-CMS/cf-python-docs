@@ -1,0 +1,7 @@
+cf.Data.sparse_array
+====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.Data.sparse_array

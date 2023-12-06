@@ -1,0 +1,9 @@
+:orphan:
+
+cf.AuxiliaryCoordinate.nc_set_variable
+======================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.AuxiliaryCoordinate.nc_set_variable

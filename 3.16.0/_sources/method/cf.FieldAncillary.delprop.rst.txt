@@ -1,0 +1,9 @@
+:orphan:
+
+cf.FieldAncillary.delprop
+=========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.FieldAncillary.delprop

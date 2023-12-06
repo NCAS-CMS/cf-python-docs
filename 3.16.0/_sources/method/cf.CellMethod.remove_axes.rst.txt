@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellMethod.remove_axes
+=========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellMethod.remove_axes

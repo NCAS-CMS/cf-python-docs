@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Data.get_index
+=================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Data.get_index

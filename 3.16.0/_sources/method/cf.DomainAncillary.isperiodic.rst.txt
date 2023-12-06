@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainAncillary.isperiodic
+=============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainAncillary.isperiodic

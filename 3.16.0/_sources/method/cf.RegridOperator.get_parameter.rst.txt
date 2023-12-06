@@ -1,0 +1,9 @@
+:orphan:
+
+cf.RegridOperator.get_parameter
+===============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.RegridOperator.get_parameter

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.RegridOperator.check_method
+==============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.RegridOperator.check_method
