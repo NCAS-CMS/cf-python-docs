@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DimensionCoordinate.is_climatology
+=====================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DimensionCoordinate.is_climatology

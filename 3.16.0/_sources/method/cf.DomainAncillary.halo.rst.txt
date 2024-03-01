@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainAncillary.halo
+=======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainAncillary.halo

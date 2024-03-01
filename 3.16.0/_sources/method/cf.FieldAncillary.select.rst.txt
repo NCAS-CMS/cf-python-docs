@@ -1,0 +1,9 @@
+:orphan:
+
+cf.FieldAncillary.select
+========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.FieldAncillary.select

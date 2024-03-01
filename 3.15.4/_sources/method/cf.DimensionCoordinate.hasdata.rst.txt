@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DimensionCoordinate.hasdata
+==============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DimensionCoordinate.hasdata

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellMeasure.tan
+==================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellMeasure.tan

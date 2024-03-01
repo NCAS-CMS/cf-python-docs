@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Count.__ilshift__
+====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Count.__ilshift__

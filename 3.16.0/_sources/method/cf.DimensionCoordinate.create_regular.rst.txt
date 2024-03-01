@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DimensionCoordinate.create_regular
+=====================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DimensionCoordinate.create_regular

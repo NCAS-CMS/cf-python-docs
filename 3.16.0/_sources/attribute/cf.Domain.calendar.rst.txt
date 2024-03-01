@@ -1,0 +1,7 @@
+cf.Domain.calendar
+==================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.Domain.calendar

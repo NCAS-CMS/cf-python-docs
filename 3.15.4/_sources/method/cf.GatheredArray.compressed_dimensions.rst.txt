@@ -1,0 +1,9 @@
+:orphan:
+
+cf.GatheredArray.compressed_dimensions
+======================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.GatheredArray.compressed_dimensions

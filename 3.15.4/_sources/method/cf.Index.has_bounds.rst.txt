@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Index.has_bounds
+===================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Index.has_bounds

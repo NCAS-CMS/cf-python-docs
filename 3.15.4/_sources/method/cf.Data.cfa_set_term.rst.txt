@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Data.cfa_set_term
+====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Data.cfa_set_term

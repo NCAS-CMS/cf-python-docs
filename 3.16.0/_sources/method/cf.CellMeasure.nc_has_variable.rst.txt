@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellMeasure.nc_has_variable
+==============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellMeasure.nc_has_variable

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Count.match_by_ncvar
+=======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Count.match_by_ncvar

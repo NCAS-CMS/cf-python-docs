@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainAncillary.standard_deviation
+=====================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainAncillary.standard_deviation

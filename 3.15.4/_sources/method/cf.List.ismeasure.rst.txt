@@ -1,0 +1,9 @@
+:orphan:
+
+cf.List.ismeasure
+=================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.List.ismeasure

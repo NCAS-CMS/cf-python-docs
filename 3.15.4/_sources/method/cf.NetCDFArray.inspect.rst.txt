@@ -1,0 +1,9 @@
+:orphan:
+
+cf.NetCDFArray.inspect
+======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.NetCDFArray.inspect

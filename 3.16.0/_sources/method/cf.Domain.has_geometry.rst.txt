@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Domain.has_geometry
+======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Domain.has_geometry

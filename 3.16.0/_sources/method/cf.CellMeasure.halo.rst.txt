@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellMeasure.halo
+===================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellMeasure.halo

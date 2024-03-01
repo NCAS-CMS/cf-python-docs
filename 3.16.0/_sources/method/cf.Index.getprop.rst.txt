@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Index.getprop
+================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Index.getprop

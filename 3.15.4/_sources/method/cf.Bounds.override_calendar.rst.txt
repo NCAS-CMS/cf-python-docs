@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Bounds.override_calendar
+===========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Bounds.override_calendar

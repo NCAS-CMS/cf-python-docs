@@ -1,0 +1,7 @@
+cf.GatheredArray.Units
+======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.GatheredArray.Units

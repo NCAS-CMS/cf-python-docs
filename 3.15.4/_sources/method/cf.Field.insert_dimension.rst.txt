@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Field.insert_dimension
+=========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Field.insert_dimension

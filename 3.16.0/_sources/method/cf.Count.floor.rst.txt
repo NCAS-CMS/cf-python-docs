@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Count.floor
+==============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Count.floor

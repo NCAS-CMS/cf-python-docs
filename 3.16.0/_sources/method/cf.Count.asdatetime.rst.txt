@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Count.asdatetime
+===================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Count.asdatetime

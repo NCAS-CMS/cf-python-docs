@@ -1,0 +1,7 @@
+cf.Count.Data
+=============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.Count.Data

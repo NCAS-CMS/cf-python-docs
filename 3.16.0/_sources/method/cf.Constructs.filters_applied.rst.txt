@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Constructs.filters_applied
+=============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Constructs.filters_applied

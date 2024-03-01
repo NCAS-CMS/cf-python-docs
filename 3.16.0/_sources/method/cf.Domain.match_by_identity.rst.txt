@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Domain.match_by_identity
+===========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Domain.match_by_identity

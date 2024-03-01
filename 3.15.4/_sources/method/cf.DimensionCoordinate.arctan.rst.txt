@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DimensionCoordinate.arctan
+=============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DimensionCoordinate.arctan

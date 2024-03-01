@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Index.maximum
+================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Index.maximum

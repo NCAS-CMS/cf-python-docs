@@ -1,0 +1,9 @@
+:orphan:
+
+cf.FieldAncillary.arccosh
+=========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.FieldAncillary.arccosh

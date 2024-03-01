@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Index.override_units
+=======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Index.override_units

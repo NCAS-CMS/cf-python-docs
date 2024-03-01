@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainAncillary.where
+========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainAncillary.where

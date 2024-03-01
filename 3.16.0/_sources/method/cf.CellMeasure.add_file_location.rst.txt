@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellMeasure.add_file_location
+================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellMeasure.add_file_location

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Field.maximum
+================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Field.maximum

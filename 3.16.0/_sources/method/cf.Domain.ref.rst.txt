@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Domain.ref
+=============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Domain.ref

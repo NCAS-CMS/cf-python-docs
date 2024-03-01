@@ -1,0 +1,9 @@
+:orphan:
+
+cf.RegridOperator.__del__
+=========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.RegridOperator.__del__

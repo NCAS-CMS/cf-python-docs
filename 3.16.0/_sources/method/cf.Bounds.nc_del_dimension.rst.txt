@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Bounds.nc_del_dimension
+==========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Bounds.nc_del_dimension

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Data.flatten
+===============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Data.flatten

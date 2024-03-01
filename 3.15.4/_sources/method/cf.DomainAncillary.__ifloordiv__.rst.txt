@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainAncillary.__ifloordiv__
+================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainAncillary.__ifloordiv__

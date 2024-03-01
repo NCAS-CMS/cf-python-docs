@@ -1,0 +1,9 @@
+:orphan:
+
+cf.List.arcsin
+==============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.List.arcsin

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainAxis.creation_commands
+===============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainAxis.creation_commands

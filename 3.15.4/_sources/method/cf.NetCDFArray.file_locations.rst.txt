@@ -1,0 +1,9 @@
+:orphan:
+
+cf.NetCDFArray.file_locations
+=============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.NetCDFArray.file_locations

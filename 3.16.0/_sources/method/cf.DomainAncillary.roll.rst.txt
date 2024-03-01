@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainAncillary.roll
+=======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainAncillary.roll

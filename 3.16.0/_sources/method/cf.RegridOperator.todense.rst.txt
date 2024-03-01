@@ -1,0 +1,9 @@
+:orphan:
+
+cf.RegridOperator.todense
+=========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.RegridOperator.todense

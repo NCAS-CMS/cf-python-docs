@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Domain.cell_connectivities
+=============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Domain.cell_connectivities

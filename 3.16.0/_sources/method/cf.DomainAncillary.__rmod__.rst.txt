@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainAncillary.__rmod__
+===========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainAncillary.__rmod__
