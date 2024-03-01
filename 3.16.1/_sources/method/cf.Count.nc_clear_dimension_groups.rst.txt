@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Count.nc_clear_dimension_groups
+==================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Count.nc_clear_dimension_groups

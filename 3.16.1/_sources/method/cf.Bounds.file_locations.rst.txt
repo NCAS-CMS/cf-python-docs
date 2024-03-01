@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Bounds.file_locations
+========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Bounds.file_locations

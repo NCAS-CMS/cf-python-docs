@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Data.sqrt
+============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Data.sqrt

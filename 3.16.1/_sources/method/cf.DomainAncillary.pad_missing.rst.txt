@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainAncillary.pad_missing
+==============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainAncillary.pad_missing

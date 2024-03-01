@@ -1,0 +1,7 @@
+cf.Field.Items
+==============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.Field.Items

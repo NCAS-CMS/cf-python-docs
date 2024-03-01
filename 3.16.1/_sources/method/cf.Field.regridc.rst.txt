@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Field.regridc
+================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Field.regridc

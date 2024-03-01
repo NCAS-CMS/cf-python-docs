@@ -1,0 +1,7 @@
+cf.DimensionCoordinate.iscyclic
+===============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.DimensionCoordinate.iscyclic

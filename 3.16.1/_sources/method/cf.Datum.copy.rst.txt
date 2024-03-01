@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Datum.copy
+=============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Datum.copy

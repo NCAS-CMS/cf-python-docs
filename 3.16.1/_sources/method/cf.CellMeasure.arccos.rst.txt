@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellMeasure.arccos
+=====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellMeasure.arccos

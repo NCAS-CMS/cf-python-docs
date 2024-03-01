@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Domain.auxiliary_coordinate
+==============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Domain.auxiliary_coordinate

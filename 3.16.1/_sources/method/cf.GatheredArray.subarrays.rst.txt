@@ -1,0 +1,9 @@
+:orphan:
+
+cf.GatheredArray.subarrays
+==========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.GatheredArray.subarrays

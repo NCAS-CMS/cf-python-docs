@@ -1,0 +1,9 @@
+:orphan:
+
+cf.List.__floordiv__
+====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.List.__floordiv__

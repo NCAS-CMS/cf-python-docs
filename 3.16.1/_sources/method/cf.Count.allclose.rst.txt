@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Count.allclose
+=================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Count.allclose

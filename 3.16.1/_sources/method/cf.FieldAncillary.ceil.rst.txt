@@ -1,0 +1,9 @@
+:orphan:
+
+cf.FieldAncillary.ceil
+======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.FieldAncillary.ceil

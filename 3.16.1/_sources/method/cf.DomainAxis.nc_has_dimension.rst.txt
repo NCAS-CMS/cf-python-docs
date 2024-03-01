@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainAxis.nc_has_dimension
+==============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainAxis.nc_has_dimension

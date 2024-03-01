@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Count.__ixor__
+=================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Count.__ixor__

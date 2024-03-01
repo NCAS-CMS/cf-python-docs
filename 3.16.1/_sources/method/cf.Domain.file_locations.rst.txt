@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Domain.file_locations
+========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Domain.file_locations

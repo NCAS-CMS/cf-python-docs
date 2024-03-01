@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellMeasure.isdimension
+==========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellMeasure.isdimension

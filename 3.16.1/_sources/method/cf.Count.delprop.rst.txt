@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Count.delprop
+================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Count.delprop

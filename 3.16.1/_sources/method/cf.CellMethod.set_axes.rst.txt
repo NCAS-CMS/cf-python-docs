@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellMethod.set_axes
+======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellMethod.set_axes

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Bounds.autoperiod
+====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Bounds.autoperiod

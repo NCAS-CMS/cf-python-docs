@@ -1,0 +1,9 @@
+:orphan:
+
+cf.List.get_filenames
+=====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.List.get_filenames

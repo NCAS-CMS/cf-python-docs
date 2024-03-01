@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Data.minimum
+===============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Data.minimum

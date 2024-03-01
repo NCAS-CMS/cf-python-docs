@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Data.cfa_set_aggregated_data
+===============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Data.cfa_set_aggregated_data

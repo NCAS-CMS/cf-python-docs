@@ -1,0 +1,9 @@
+:orphan:
+
+cf.FieldList.select_by_ncvar
+============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.FieldList.select_by_ncvar

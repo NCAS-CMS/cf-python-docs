@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Constructs.__len__
+=====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Constructs.__len__

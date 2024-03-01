@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Query.setdefault
+===================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Query.setdefault

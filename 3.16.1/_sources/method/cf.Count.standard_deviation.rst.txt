@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Count.standard_deviation
+===========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Count.standard_deviation

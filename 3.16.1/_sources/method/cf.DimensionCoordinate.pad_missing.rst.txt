@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DimensionCoordinate.pad_missing
+==================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DimensionCoordinate.pad_missing

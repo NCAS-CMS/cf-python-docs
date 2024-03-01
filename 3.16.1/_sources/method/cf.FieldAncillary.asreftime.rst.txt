@@ -1,0 +1,9 @@
+:orphan:
+
+cf.FieldAncillary.asreftime
+===========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.FieldAncillary.asreftime

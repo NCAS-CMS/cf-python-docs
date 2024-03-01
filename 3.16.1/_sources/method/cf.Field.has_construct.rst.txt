@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Field.has_construct
+======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Field.has_construct

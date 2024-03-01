@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellMeasure.__iadd__
+=======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellMeasure.__iadd__

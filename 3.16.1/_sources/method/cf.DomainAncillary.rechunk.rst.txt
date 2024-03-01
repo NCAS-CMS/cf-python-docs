@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainAncillary.rechunk
+==========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainAncillary.rechunk

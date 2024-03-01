@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainAxis.__deepcopy__
+==========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainAxis.__deepcopy__

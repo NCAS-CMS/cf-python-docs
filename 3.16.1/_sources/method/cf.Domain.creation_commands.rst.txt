@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Domain.creation_commands
+===========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Domain.creation_commands
