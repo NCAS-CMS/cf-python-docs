@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellConnectivity.mid_range
+=============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellConnectivity.mid_range

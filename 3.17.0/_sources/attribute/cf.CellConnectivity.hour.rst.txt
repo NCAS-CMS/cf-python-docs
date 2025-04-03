@@ -1,0 +1,7 @@
+cf.CellConnectivity.hour
+========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.CellConnectivity.hour

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Domain.nc_group_attributes
+=============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Domain.nc_group_attributes

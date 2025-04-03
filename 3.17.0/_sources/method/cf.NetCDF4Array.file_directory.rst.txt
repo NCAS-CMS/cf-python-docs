@@ -1,0 +1,9 @@
+:orphan:
+
+cf.NetCDF4Array.file_directory
+==============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.NetCDF4Array.file_directory

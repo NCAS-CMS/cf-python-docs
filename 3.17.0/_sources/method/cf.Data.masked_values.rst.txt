@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Data.masked_values
+=====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Data.masked_values

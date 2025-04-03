@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Data.nc_set_aggregation_write_status
+=======================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Data.nc_set_aggregation_write_status

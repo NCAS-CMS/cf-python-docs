@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainTopology.arccosh
+=========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainTopology.arccosh

@@ -1,0 +1,7 @@
+cf.CellConnectivity.array
+=========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.CellConnectivity.array

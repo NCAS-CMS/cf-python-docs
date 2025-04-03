@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainTopology.del_cell
+==========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainTopology.del_cell

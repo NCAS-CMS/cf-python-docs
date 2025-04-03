@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DimensionCoordinate.standard_deviation
+=========================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DimensionCoordinate.standard_deviation

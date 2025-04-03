@@ -1,0 +1,7 @@
+cf.DomainTopology.id
+====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.DomainTopology.id

@@ -1,0 +1,7 @@
+cf.CellConnectivity.history
+===========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.CellConnectivity.history

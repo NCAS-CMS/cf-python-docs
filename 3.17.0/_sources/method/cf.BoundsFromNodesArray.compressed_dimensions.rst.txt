@@ -1,0 +1,9 @@
+:orphan:
+
+cf.BoundsFromNodesArray.compressed_dimensions
+=============================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.BoundsFromNodesArray.compressed_dimensions

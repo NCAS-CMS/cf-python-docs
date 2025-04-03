@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainTopology.asreftime
+===========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainTopology.asreftime

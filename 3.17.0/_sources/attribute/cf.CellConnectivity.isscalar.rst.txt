@@ -1,0 +1,7 @@
+cf.CellConnectivity.isscalar
+============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.CellConnectivity.isscalar

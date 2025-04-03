@@ -1,0 +1,9 @@
+:orphan:
+
+cf.PointTopologyArray.to_dask_array
+===================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.PointTopologyArray.to_dask_array

@@ -1,0 +1,7 @@
+cf.NetCDF4Array.original_shape
+==============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.NetCDF4Array.original_shape

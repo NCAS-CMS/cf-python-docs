@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Configuration.get
+====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Configuration.get

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Index.subspace
+=================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Index.subspace

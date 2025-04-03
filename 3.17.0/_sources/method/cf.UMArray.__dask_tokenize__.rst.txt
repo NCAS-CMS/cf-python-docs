@@ -1,0 +1,9 @@
+:orphan:
+
+cf.UMArray.__dask_tokenize__
+============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.UMArray.__dask_tokenize__

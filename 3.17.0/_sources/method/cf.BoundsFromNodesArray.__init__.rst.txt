@@ -1,0 +1,9 @@
+:orphan:
+
+cf.BoundsFromNodesArray.__init__
+================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.BoundsFromNodesArray.__init__

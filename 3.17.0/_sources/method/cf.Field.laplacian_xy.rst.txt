@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Field.laplacian_xy
+=====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Field.laplacian_xy

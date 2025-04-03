@@ -1,0 +1,7 @@
+cf.DomainTopology.add_offset
+============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.DomainTopology.add_offset

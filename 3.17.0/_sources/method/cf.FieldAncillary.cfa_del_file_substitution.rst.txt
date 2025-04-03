@@ -1,0 +1,9 @@
+:orphan:
+
+cf.FieldAncillary.cfa_del_file_substitution
+===========================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.FieldAncillary.cfa_del_file_substitution

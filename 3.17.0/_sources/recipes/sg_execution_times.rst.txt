@@ -1,0 +1,12 @@
+
+:orphan:
+
+.. _sphx_glr_recipes_sg_execution_times:
+
+Computation times
+=================
+**04:38.032** total execution time for **recipes** files:
+
++-------------------------------------------------------------------+-----------+--------+
+| :ref:`sphx_glr_recipes_plot_19_recipe.py` (``plot_19_recipe.py``) | 04:38.032 | 0.0 MB |
++-------------------------------------------------------------------+-----------+--------+

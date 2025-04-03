@@ -1,0 +1,7 @@
+cf.CellConnectivity.datetime_array
+==================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.CellConnectivity.datetime_array

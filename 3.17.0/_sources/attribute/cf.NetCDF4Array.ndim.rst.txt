@@ -1,0 +1,7 @@
+cf.NetCDF4Array.ndim
+====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.NetCDF4Array.ndim

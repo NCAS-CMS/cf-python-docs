@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DimensionCoordinate.file_directories
+=======================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DimensionCoordinate.file_directories

@@ -1,0 +1,7 @@
+cf.FullArray.reference_shape
+============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.FullArray.reference_shape

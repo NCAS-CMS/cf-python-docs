@@ -1,0 +1,7 @@
+cf.DomainTopology.leap_year
+===========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.DomainTopology.leap_year

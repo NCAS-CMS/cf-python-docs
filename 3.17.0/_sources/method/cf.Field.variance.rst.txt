@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Field.variance
+=================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Field.variance

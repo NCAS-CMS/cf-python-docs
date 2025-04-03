@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainAncillary.rint
+=======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainAncillary.rint

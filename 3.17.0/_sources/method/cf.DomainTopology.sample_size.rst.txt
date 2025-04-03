@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainTopology.sample_size
+=============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainTopology.sample_size

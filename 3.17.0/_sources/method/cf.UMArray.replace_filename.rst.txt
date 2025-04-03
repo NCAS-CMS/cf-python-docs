@@ -1,0 +1,9 @@
+:orphan:
+
+cf.UMArray.replace_filename
+===========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.UMArray.replace_filename

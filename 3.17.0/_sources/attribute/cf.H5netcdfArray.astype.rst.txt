@@ -1,0 +1,7 @@
+cf.H5netcdfArray.astype
+=======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.H5netcdfArray.astype

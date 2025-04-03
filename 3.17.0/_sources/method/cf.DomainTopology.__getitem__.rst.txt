@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainTopology.__getitem__
+=============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainTopology.__getitem__

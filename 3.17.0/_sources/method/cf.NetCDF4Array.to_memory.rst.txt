@@ -1,0 +1,9 @@
+:orphan:
+
+cf.NetCDF4Array.to_memory
+=========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.NetCDF4Array.to_memory

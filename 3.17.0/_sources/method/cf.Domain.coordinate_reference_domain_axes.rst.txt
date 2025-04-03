@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Domain.coordinate_reference_domain_axes
+==========================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Domain.coordinate_reference_domain_axes

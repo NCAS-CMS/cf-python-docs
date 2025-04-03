@@ -1,0 +1,7 @@
+cf.CellConnectivityArray.size
+=============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.CellConnectivityArray.size

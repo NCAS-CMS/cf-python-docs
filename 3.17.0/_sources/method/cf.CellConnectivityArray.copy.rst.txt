@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellConnectivityArray.copy
+=============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellConnectivityArray.copy

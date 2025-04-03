@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellMeasure.file_directories
+===============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellMeasure.file_directories

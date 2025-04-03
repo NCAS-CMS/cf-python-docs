@@ -1,0 +1,9 @@
+:orphan:
+
+cf.UMArray.data_offset
+======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.UMArray.data_offset

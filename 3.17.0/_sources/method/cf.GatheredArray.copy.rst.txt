@@ -1,0 +1,9 @@
+:orphan:
+
+cf.GatheredArray.copy
+=====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.GatheredArray.copy

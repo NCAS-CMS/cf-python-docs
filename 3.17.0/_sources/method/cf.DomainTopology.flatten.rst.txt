@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainTopology.flatten
+=========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainTopology.flatten

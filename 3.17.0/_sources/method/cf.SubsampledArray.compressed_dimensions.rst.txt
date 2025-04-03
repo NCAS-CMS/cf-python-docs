@@ -1,0 +1,9 @@
+:orphan:
+
+cf.SubsampledArray.compressed_dimensions
+========================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.SubsampledArray.compressed_dimensions

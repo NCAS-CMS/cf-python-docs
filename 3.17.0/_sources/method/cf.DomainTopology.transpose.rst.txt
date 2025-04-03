@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainTopology.transpose
+===========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainTopology.transpose

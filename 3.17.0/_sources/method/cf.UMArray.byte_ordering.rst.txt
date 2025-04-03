@@ -1,0 +1,9 @@
+:orphan:
+
+cf.UMArray.byte_ordering
+========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.UMArray.byte_ordering

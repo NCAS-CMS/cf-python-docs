@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellConnectivityArray.compressed_dimensions
+==============================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellConnectivityArray.compressed_dimensions

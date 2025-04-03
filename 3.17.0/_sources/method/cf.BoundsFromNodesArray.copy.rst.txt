@@ -1,0 +1,9 @@
+:orphan:
+
+cf.BoundsFromNodesArray.copy
+============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.BoundsFromNodesArray.copy

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.PointTopologyArray.copy
+==========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.PointTopologyArray.copy

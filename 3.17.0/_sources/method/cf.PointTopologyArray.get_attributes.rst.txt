@@ -1,0 +1,9 @@
+:orphan:
+
+cf.PointTopologyArray.get_attributes
+====================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.PointTopologyArray.get_attributes

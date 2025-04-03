@@ -1,0 +1,9 @@
+:orphan:
+
+cf.TimeDuration.__int__
+=======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.TimeDuration.__int__

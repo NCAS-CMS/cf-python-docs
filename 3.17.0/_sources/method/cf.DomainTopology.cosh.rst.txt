@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainTopology.cosh
+======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainTopology.cosh

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellConnectivity.arcsinh
+===========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellConnectivity.arcsinh

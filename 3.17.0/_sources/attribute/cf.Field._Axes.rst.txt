@@ -1,0 +1,7 @@
+cf.Field._Axes
+==============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.Field._Axes

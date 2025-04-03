@@ -1,0 +1,9 @@
+:orphan:
+
+cf.List.set_property
+====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.List.set_property

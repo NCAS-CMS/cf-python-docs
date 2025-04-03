@@ -1,0 +1,9 @@
+:orphan:
+
+cf.SubsampledArray.conformed_data
+=================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.SubsampledArray.conformed_data

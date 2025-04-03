@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainTopology.equals
+========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainTopology.equals

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainTopology.dtvarray
+==========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainTopology.dtvarray

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Index.__irshift__
+====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Index.__irshift__

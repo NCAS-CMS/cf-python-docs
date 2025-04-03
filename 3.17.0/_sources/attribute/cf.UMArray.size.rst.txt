@@ -1,0 +1,7 @@
+cf.UMArray.size
+===============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.UMArray.size

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.UMArray.disk_length
+======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.UMArray.disk_length

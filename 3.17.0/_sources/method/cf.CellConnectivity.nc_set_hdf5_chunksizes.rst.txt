@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellConnectivity.nc_set_hdf5_chunksizes
+==========================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellConnectivity.nc_set_hdf5_chunksizes

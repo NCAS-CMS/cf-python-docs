@@ -1,0 +1,9 @@
+:orphan:
+
+cf.FullArray._docstring_method_exclusions
+=========================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.FullArray._docstring_method_exclusions

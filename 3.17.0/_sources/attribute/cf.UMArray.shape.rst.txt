@@ -1,0 +1,7 @@
+cf.UMArray.shape
+================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.UMArray.shape

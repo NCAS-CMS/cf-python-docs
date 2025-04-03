@@ -1,0 +1,7 @@
+cf.RegridOperator.dst_shape
+===========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.RegridOperator.dst_shape

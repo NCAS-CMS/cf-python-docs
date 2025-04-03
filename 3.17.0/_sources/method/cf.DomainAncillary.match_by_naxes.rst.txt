@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainAncillary.match_by_naxes
+=================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainAncillary.match_by_naxes

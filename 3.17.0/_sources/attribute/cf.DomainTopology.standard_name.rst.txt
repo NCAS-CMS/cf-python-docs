@@ -1,0 +1,7 @@
+cf.DomainTopology.standard_name
+===============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.DomainTopology.standard_name

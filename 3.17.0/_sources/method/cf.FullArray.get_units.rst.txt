@@ -1,0 +1,9 @@
+:orphan:
+
+cf.FullArray.get_units
+======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.FullArray.get_units

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.H5netcdfArray.__dask_tokenize__
+==================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.H5netcdfArray.__dask_tokenize__

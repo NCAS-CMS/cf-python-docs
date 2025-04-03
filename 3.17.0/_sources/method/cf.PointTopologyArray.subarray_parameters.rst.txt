@@ -1,0 +1,9 @@
+:orphan:
+
+cf.PointTopologyArray.subarray_parameters
+=========================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.PointTopologyArray.subarray_parameters

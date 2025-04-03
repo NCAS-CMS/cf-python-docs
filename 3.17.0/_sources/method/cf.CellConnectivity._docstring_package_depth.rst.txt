@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellConnectivity._docstring_package_depth
+============================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellConnectivity._docstring_package_depth

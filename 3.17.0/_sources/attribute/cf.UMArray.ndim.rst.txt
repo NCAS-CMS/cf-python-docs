@@ -1,0 +1,7 @@
+cf.UMArray.ndim
+===============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.UMArray.ndim

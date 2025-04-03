@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellMeasure.pad_missing
+==========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellMeasure.pad_missing

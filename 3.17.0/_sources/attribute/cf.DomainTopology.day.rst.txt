@@ -1,0 +1,7 @@
+cf.DomainTopology.day
+=====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.DomainTopology.day

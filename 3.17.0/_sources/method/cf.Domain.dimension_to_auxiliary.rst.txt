@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Domain.dimension_to_auxiliary
+================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Domain.dimension_to_auxiliary

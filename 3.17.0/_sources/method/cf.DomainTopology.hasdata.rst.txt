@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainTopology.hasdata
+=========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainTopology.hasdata

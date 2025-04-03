@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Data.replace_filenames
+=========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Data.replace_filenames

@@ -1,0 +1,7 @@
+cf.UMArray.astype
+=================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.UMArray.astype

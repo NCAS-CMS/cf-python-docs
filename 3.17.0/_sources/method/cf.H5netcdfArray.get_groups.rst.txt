@@ -1,0 +1,9 @@
+:orphan:
+
+cf.H5netcdfArray.get_groups
+===========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.H5netcdfArray.get_groups

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellMeasure.del_properties
+=============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellMeasure.del_properties

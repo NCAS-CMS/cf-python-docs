@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DimensionCoordinate.nc_hdf5_chunksizes
+=========================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DimensionCoordinate.nc_hdf5_chunksizes

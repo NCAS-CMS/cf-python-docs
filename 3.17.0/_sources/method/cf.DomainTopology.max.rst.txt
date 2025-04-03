@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainTopology.max
+=====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainTopology.max

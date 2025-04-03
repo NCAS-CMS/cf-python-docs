@@ -1,0 +1,9 @@
+:orphan:
+
+cf.FieldAncillary.tanh
+======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.FieldAncillary.tanh

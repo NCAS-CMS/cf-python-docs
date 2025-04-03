@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainTopology.expand_dims
+=============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainTopology.expand_dims

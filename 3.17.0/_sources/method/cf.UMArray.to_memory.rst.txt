@@ -1,0 +1,9 @@
+:orphan:
+
+cf.UMArray.to_memory
+====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.UMArray.to_memory

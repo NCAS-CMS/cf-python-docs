@@ -1,0 +1,7 @@
+cf.DomainTopology.dtype
+=======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.DomainTopology.dtype

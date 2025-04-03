@@ -1,0 +1,7 @@
+cf.CellConnectivity.leap_month
+==============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.CellConnectivity.leap_month

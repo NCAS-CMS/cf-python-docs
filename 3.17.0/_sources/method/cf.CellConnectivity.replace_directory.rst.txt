@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellConnectivity.replace_directory
+=====================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellConnectivity.replace_directory

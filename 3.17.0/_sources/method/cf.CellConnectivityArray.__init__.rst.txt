@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellConnectivityArray.__init__
+=================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellConnectivityArray.__init__

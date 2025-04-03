@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellMeasure.replace_directory
+================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellMeasure.replace_directory

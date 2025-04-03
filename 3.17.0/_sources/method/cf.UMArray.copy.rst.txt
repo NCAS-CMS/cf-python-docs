@@ -1,0 +1,9 @@
+:orphan:
+
+cf.UMArray.copy
+===============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.UMArray.copy

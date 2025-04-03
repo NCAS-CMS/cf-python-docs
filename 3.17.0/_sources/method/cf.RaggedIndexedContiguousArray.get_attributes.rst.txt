@@ -1,0 +1,9 @@
+:orphan:
+
+cf.RaggedIndexedContiguousArray.get_attributes
+==============================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.RaggedIndexedContiguousArray.get_attributes

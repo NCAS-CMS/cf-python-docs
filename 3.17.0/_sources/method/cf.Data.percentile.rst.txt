@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Data.percentile
+==================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Data.percentile

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Domain.nc_clear_component_sample_dimension_groups
+====================================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Domain.nc_clear_component_sample_dimension_groups

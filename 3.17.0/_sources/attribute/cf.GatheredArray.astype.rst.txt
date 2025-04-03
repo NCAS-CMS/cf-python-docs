@@ -1,0 +1,7 @@
+cf.GatheredArray.astype
+=======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.GatheredArray.astype

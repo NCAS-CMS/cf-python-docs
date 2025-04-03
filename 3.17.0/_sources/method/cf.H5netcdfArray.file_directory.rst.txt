@@ -1,0 +1,9 @@
+:orphan:
+
+cf.H5netcdfArray.file_directory
+===============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.H5netcdfArray.file_directory

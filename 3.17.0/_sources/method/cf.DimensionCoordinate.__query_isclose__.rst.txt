@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DimensionCoordinate.__query_isclose__
+========================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DimensionCoordinate.__query_isclose__

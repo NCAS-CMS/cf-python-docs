@@ -1,0 +1,9 @@
+:orphan:
+
+cf.SubsampledArray.subarray_shapes
+==================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.SubsampledArray.subarray_shapes

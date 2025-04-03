@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainTopology.trunc
+=======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainTopology.trunc

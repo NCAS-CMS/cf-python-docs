@@ -1,0 +1,7 @@
+cf.Query.open_lower
+===================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.Query.open_lower

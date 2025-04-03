@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellMeasure.filled
+=====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellMeasure.filled

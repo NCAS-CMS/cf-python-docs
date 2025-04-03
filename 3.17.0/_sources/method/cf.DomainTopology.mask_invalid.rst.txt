@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainTopology.mask_invalid
+==============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainTopology.mask_invalid

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Field.example_field
+======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Field.example_field

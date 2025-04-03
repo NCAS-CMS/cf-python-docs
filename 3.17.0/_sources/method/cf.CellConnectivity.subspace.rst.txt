@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellConnectivity.subspace
+============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellConnectivity.subspace

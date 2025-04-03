@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Bounds.__rshift__
+====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Bounds.__rshift__

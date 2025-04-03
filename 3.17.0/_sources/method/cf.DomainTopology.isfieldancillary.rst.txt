@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainTopology.isfieldancillary
+==================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainTopology.isfieldancillary

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainTopology.arctan
+========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainTopology.arctan

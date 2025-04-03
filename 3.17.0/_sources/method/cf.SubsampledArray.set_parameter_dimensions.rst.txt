@@ -1,0 +1,9 @@
+:orphan:
+
+cf.SubsampledArray.set_parameter_dimensions
+===========================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.SubsampledArray.set_parameter_dimensions

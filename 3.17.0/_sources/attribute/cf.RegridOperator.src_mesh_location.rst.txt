@@ -1,0 +1,7 @@
+cf.RegridOperator.src_mesh_location
+===================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.RegridOperator.src_mesh_location

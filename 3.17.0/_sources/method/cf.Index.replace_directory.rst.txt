@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Index.replace_directory
+==========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Index.replace_directory

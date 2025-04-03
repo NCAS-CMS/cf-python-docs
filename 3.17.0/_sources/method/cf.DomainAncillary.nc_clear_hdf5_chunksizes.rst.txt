@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainAncillary.nc_clear_hdf5_chunksizes
+===========================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainAncillary.nc_clear_hdf5_chunksizes

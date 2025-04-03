@@ -1,0 +1,7 @@
+cf.PointTopologyArray.astype
+============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.PointTopologyArray.astype

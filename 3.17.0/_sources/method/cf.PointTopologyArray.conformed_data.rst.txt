@@ -1,0 +1,9 @@
+:orphan:
+
+cf.PointTopologyArray.conformed_data
+====================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.PointTopologyArray.conformed_data

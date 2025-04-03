@@ -1,0 +1,9 @@
+:orphan:
+
+cf.BoundsFromNodesArray.get_Subarray
+====================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.BoundsFromNodesArray.get_Subarray

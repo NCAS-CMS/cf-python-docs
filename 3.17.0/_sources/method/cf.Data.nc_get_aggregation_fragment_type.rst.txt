@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Data.nc_get_aggregation_fragment_type
+========================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Data.nc_get_aggregation_fragment_type

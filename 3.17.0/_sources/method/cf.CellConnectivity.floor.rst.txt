@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellConnectivity.floor
+=========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellConnectivity.floor

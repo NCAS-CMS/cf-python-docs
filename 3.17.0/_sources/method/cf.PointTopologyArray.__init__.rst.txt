@@ -1,0 +1,9 @@
+:orphan:
+
+cf.PointTopologyArray.__init__
+==============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.PointTopologyArray.__init__

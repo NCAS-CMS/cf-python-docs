@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellConnectivity.insert_dimension
+====================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellConnectivity.insert_dimension

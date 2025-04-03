@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainTopology.to_dask_array
+===============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainTopology.to_dask_array

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainTopology.tan
+=====================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainTopology.tan

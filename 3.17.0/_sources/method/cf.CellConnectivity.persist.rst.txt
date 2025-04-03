@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellConnectivity.persist
+===========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellConnectivity.persist

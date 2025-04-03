@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainTopology.isdimension
+=============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainTopology.isdimension

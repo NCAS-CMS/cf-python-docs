@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DimensionCoordinate.anchor
+=============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DimensionCoordinate.anchor

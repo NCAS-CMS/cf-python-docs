@@ -1,0 +1,9 @@
+:orphan:
+
+cf.SubsampledArray.get_compression_type
+=======================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.SubsampledArray.get_compression_type

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Count.isfieldancillary
+=========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Count.isfieldancillary

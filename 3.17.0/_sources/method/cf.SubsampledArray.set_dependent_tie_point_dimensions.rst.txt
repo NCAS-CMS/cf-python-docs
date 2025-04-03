@@ -1,0 +1,9 @@
+:orphan:
+
+cf.SubsampledArray.set_dependent_tie_point_dimensions
+=====================================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.SubsampledArray.set_dependent_tie_point_dimensions

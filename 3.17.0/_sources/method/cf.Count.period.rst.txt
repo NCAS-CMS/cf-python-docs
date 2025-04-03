@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Count.period
+===============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Count.period

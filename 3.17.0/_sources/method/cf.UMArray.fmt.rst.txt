@@ -1,0 +1,9 @@
+:orphan:
+
+cf.UMArray.fmt
+==============
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.UMArray.fmt

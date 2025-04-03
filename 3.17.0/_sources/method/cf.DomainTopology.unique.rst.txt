@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainTopology.unique
+========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainTopology.unique

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.UMArray.replace_directory
+============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.UMArray.replace_directory

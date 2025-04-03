@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainTopology.concatenate
+=============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainTopology.concatenate

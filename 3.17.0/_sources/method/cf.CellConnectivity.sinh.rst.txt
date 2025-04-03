@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellConnectivity.sinh
+========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellConnectivity.sinh

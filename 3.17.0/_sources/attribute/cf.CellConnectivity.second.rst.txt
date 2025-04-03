@@ -1,0 +1,7 @@
+cf.CellConnectivity.second
+==========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.CellConnectivity.second

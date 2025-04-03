@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainTopology.insert_data
+=============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainTopology.insert_data

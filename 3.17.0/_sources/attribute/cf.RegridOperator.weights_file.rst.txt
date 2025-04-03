@@ -1,0 +1,7 @@
+cf.RegridOperator.weights_file
+==============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.RegridOperator.weights_file

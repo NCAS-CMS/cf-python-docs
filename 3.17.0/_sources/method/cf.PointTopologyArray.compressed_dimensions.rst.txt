@@ -1,0 +1,9 @@
+:orphan:
+
+cf.PointTopologyArray.compressed_dimensions
+===========================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.PointTopologyArray.compressed_dimensions

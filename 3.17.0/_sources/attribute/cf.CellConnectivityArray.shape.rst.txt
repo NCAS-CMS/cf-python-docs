@@ -1,0 +1,7 @@
+cf.CellConnectivityArray.shape
+==============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.CellConnectivityArray.shape

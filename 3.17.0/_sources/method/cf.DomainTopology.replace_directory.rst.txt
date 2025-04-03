@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainTopology.replace_directory
+===================================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainTopology.replace_directory

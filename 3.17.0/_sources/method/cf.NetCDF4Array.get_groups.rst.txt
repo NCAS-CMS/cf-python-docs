@@ -1,0 +1,9 @@
+:orphan:
+
+cf.NetCDF4Array.get_groups
+==========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.NetCDF4Array.get_groups

@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainTopology.pad_missing
+=============================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainTopology.pad_missing

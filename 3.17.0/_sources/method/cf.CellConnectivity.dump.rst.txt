@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellConnectivity.dump
+========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellConnectivity.dump

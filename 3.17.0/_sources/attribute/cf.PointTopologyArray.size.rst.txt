@@ -1,0 +1,7 @@
+cf.PointTopologyArray.size
+==========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.PointTopologyArray.size

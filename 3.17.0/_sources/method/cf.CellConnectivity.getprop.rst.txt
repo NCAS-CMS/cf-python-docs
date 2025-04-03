@@ -1,0 +1,9 @@
+:orphan:
+
+cf.CellConnectivity.getprop
+===========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.CellConnectivity.getprop

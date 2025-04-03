@@ -1,0 +1,9 @@
+:orphan:
+
+cf.DomainTopology.delprop
+=========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.DomainTopology.delprop

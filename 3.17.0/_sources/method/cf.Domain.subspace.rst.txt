@@ -1,0 +1,9 @@
+:orphan:
+
+cf.Domain.subspace
+==================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.Domain.subspace

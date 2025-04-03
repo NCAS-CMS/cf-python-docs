@@ -1,0 +1,9 @@
+:orphan:
+
+cf.UMArray.get_word_size
+========================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.UMArray.get_word_size

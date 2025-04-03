@@ -1,0 +1,9 @@
+:orphan:
+
+cf.UMArray.get_filename
+=======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. automethod:: cf.UMArray.get_filename

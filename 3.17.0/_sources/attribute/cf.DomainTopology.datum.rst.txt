@@ -1,0 +1,7 @@
+cf.DomainTopology.datum
+=======================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.DomainTopology.datum

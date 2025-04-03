@@ -1,0 +1,7 @@
+cf.FullArray.ndim
+=================
+
+.. currentmodule:: cf
+.. default-role:: obj
+
+.. autoattribute:: cf.FullArray.ndim
